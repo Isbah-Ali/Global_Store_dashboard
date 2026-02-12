@@ -71,6 +71,22 @@ This dashboard helps decision-makers explore these questions using **filters, KP
   - Orders, Sales, Profit
   - Customers & Regions
   - Shipping Modes & Delivery Dates
+---
+## Images
+
+<img width="1875" height="848" alt="image" src="https://github.com/user-attachments/assets/599ca7ad-55ad-404a-b108-06d3797a71da" />
+
+
+
+<img width="1466" height="528" alt="image" src="https://github.com/user-attachments/assets/83c0a5d8-9213-4053-b18c-c98c83346574" />
+
+<img width="1905" height="702" alt="image" src="https://github.com/user-attachments/assets/fb6e502e-8485-4c9c-9e9d-7e59ec7674ce" />
+
+<img width="1917" height="670" alt="image" src="https://github.com/user-attachments/assets/480723c1-88d1-495a-8320-e712ec1f328a" />
+
+<img width="1805" height="744" alt="image" src="https://github.com/user-attachments/assets/d68bc3e0-4fe0-4c9f-90b3-5de1c2c7bc7f" />
+
+
 
 ---
 
